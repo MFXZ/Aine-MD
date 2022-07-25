@@ -2,9 +2,9 @@ let fs = require('fs')
 let chalk = require('chalk')
 
 owner = [
-  ['62895330379186'],
-  ['62895330379186'],
-  ['62895330379186', 'Owner', true]
+  ['628981614707'],
+  ['628981614707'],
+  ['628981614707', 'Owner', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 mods = [] // Want some help?
@@ -56,8 +56,8 @@ fs.watchFile(file_exif, () => {
 })
 
 // Sticker WM
-packname = sticker_name
-author = sticker_author
+packname = Aine Bot
+author = MD
 wm = '© Aine'
 
 multiplier = 1000 // The higher, The harder levelup
