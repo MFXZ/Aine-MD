@@ -56,9 +56,9 @@ fs.watchFile(file_exif, () => {
 })
 
 // Sticker WM
-packname = Aine Bot
-author = MD
-wm = '© Aine'
+packname = 
+author = Soviet Bot
+wm = 'Soviet Bot'
 
 multiplier = 1000 // The higher, The harder levelup
 
